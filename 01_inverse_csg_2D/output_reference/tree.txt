@@ -1,0 +1,111 @@
+R----left-right
+     L----union
+     |    L----right-left
+     |    |    L----right-left
+     |    |    |    L----right-left
+     |    |    |    |    L----prim:21e51c62
+     |    |    |    |    R----right-left
+     |    |    |    |         L----prim:a393db22
+     |    |    |    |         R----prim:ff649430
+     |    |    |    R----right-left
+     |    |    |         L----left-right
+     |    |    |         |    L----prim:d0c6c79e
+     |    |    |         |    R----prim:987e57e5
+     |    |    |         R----right-left
+     |    |    |              L----prim:3444f07f
+     |    |    |              R----prim:8f592914
+     |    |    R----intersection
+     |    |         L----intersection
+     |    |         |    L----right-left
+     |    |         |    |    L----prim:6382cca3
+     |    |         |    |    R----prim:db27caa2
+     |    |         |    R----intersection
+     |    |         |         L----prim:50333d6a
+     |    |         |         R----prim:1c306de2
+     |    |         R----intersection
+     |    |              L----prim:2b531a85
+     |    |              R----union
+     |    |                   L----prim:9f2b80bf
+     |    |                   R----prim:dab6752e
+     |    R----intersection
+     |         L----union
+     |         |    L----union
+     |         |    |    L----prim:25c001d6
+     |         |    |    R----intersection
+     |         |    |         L----prim:feebeeec
+     |         |    |         R----prim:6734492b
+     |         |    R----union
+     |         |         L----prim:68010c33
+     |         |         R----intersection
+     |         |              L----prim:4470ddee
+     |         |              R----prim:776e225c
+     |         R----right-left
+     |              L----intersection
+     |              |    L----prim:d7173339
+     |              |    R----prim:6fea6929
+     |              R----right-left
+     |                   L----prim:b707bf02
+     |                   R----prim:6104deec
+     R----intersection
+          L----left-right
+          |    L----right-left
+          |    |    L----left-right
+          |    |    |    L----right-left
+          |    |    |    |    L----union
+          |    |    |    |    |    L----prim:9d271d91
+          |    |    |    |    |    R----prim:4db0e2a4
+          |    |    |    |    R----right-left
+          |    |    |    |         L----prim:9aeaa053
+          |    |    |    |         R----prim:f6238a59
+          |    |    |    R----union
+          |    |    |         L----prim:c7e57457
+          |    |    |         R----left-right
+          |    |    |              L----prim:d3c80a47
+          |    |    |              R----prim:daf78621
+          |    |    R----prim:8031b720
+          |    R----intersection
+          |         L----union
+          |         |    L----right-left
+          |         |    |    L----prim:e0d8e739
+          |         |    |    R----left-right
+          |         |    |         L----prim:735756d2
+          |         |    |         R----prim:0ee54c3f
+          |         |    R----left-right
+          |         |         L----prim:66a8358c
+          |         |         R----prim:b87b1b70
+          |         R----intersection
+          |              L----right-left
+          |              |    L----right-left
+          |              |    |    L----prim:1dbc8b1f
+          |              |    |    R----prim:e50ee4ce
+          |              |    R----prim:0b047b40
+          |              R----left-right
+          |                   L----prim:802749ae
+          |                   R----prim:34b507af
+          R----intersection
+               L----intersection
+               |    L----right-left
+               |    |    L----left-right
+               |    |    |    L----prim:cc613902
+               |    |    |    R----union
+               |    |    |         L----prim:784b53da
+               |    |    |         R----prim:fca6925a
+               |    |    R----prim:c0c323c8
+               |    R----union
+               |         L----union
+               |         |    L----prim:4177b74e
+               |         |    R----intersection
+               |         |         L----prim:032497dd
+               |         |         R----prim:49fca13d
+               |         R----intersection
+               |              L----right-left
+               |              |    L----prim:996ca90f
+               |              |    R----prim:9555dc53
+               |              R----prim:915ad961
+               R----union
+                    L----right-left
+                    |    L----prim:028a0592
+                    |    R----prim:d15e4fca
+                    R----union
+                         L----prim:1f1a2130
+                         R----prim:400bda68
